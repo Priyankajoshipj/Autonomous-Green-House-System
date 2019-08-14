@@ -11,7 +11,7 @@ The purpose of greenhouse monitoring system using wireless sensor network protot
 •	Chandra Kiran Saladi
 •	Pavani Panakanti
 •	Priyanka Joshi
-•	Tuhin T Das
 •	Shubham Kothari
+•	Tuhin T Das
 •	Zelun Kong
 
